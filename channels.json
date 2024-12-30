@@ -1,0 +1,65 @@
+{
+  "channels": [
+    {
+      "name": "Al-Fajer Channels",
+      "image": "https://www2.0zz0.com/2024/12/30/12/439777016.png",
+      "data": [
+        {
+          "name": "Al-Fajer 1",
+          "image": "https://www2.0zz0.com/2024/12/30/11/773735675.png",
+          "links": [
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "Al-Fajer 2",
+          "image": "https://www2.0zz0.com/2024/12/30/11/293701622.png",
+          "links":[
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/379.ts"
+            }
+          ]
+        },
+        {
+          "name": "Al-Fajer 3",
+          "image": "https://www2.0zz0.com/2024/12/30/11/760447762.png",
+          "links": [
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/380.ts"
+            }
+          ]
+        },
+        {
+          "name": "Al-Fajer 4",
+          "image": "https://www2.0zz0.com/2024/12/30/11/531434556.png",
+          "links": [
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/381.ts"
+            }
+          ]
+        },
+        {
+          "name": "Al-Fajer 5",
+          "image": "https://www2.0zz0.com/2024/12/30/11/880680182.png",
+          "links": [
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/382.ts"
+            },
+            {
+              "label": "FHD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/382.ts"
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+}
