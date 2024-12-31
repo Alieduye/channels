@@ -270,7 +270,16 @@
           ]
         }
       ]
-    }
+    },
+     {
+       "name": {
+        "ar":"قنوات الفجر",
+        "en":"Al-Fajer Channels"
+      },
+      "image": "https://www2.0zz0.com/2024/12/30/12/439777016.png",
+      "data": []
+      }
+     
 
   ]
 }
