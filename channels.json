@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "update_message":"من فضلك قم بتحميل اخر نسخة",
-  "update_link":"",
+  "update_link":"https://github.com/Alieduye/channels/releases/download/app/app-release.apk",
   "channels": [
     {
       "name": {
