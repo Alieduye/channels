@@ -1,5 +1,7 @@
 {
   "version": "1.0.0",
+  "update_message":"من فضلك قم بتحميل اخر نسخة",
+  "update_link":"",
   "channels": [
     {
       "name": {
