@@ -279,17 +279,6 @@
         "en":"OSN Channels"
       },
       "image": "https://i.ibb.co/n7hsqdJ/Picsart-24-12-31-11-18-38-535.png",
-      "data": [
-        "name": "OSN ANIMAL",
-          "image": "https://i.ibb.co/n7hsqdJ/Picsart-24-12-31-11-18-38-535.png",
-          "links": [
-            {
-              "label": "HD",
-              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
-            }
-          ]
-        }
-     
-
-  ]
+      "data": []
+     }
 }
