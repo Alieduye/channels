@@ -281,25 +281,85 @@
       "image": "https://i.ibb.co/n7hsqdJ/Picsart-24-12-31-11-18-38-535.png",
       "data": [ 
         {
-          "name": "Al-Fajer 1",
-          "image": "https://www2.0zz0.com/2024/12/30/11/773735675.png",
+          "name": "OSN ANIMAL",
+          "image": "https://www2.0zz0.com/2025/01/01/08/426041465.png",
           "links": [
             {
-              "label": "HD",
+              "label": "جار إصلاح المشغل",
               "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
             }
           ]
         },
         {
-          "name": "Al-Fajer 2",
+          "name": "OSN MOVIES",
           "image": "https://www2.0zz0.com/2024/12/30/11/773735675.png",
           "links": [
             {
-              "label": "HD",
+              "label": "المشغل الأول",
               "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
             }
           ]
-        }
+        },
+        {
+          "name": "OSN CINEMA",
+          "image": "https://www2.0zz0.com/2025/01/01/08/679454234.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN ACTION",
+          "image": "https://www2.0zz0.com/2025/01/01/08/600289470.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN SERIEAS",
+          "image": "https://www2.0zz0.com/2024/12/30/11/773735675.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN DISCOVERY",
+          "image": "https://www2.0zz0.com/2024/12/30/11/773735675.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN COMEDY",
+          "image": "https://www2.0zz0.com/2024/12/30/11/773735675.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN DISENY",
+          "image": "https://www2.0zz0.com/2024/12/30/11/773735675.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
       ]
      }
   ]
