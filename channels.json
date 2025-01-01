@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "update_message":"من فضلك قم بتحميل اخر نسخة",
   "update_link":"https://files.modyolo.com/Facebook%20Lite/LiteX_v438.0.0.13.102.apk",
-  "channels": [
+    "channels": [
     {
       "name": {
         "ar":"قنوات الفجر",
@@ -273,13 +273,13 @@
         }
       ]
     },
-     {
-        "name": {
+    {
+      "name": {
         "ar":"قنوات OSN",
         "en":"OSN Channels"
       },
       "image": "https://i.ibb.co/n7hsqdJ/Picsart-24-12-31-11-18-38-535.png",
-      "data": [ 
+      "data": [
         {
           "name": "OSN ANIMAL",
           "image": "https://www2.0zz0.com/2025/01/01/08/426041465.png",
@@ -361,6 +361,96 @@
           ]
         }
       ]
-     }
+    },
+    {
+      "name": {
+        "ar":"مسلسلات تركية",
+        "en":"Turkish series"
+      },
+      "image": "https://i.ibb.co/n7hsqdJ/Picsart-24-12-31-11-18-38-535.png",
+      "data": [
+        {
+          "name": "OSN ANIMAL",
+          "image": "https://www2.0zz0.com/2025/01/01/08/426041465.png",
+          "links": [
+            {
+              "label": "جار إصلاح المشغل",
+              "link": "https://vod2.furrera.ps/vod2/2020Q4/animation/noku.no.hero.academia/noku.no.hero.academia.S01EP01.m4v/index.m3u8"
+            }
+          ]
+        },
+        {
+          "name": "OSN MOVIES",
+          "image": "https://www2.0zz0.com/2025/01/01/15/373673295.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN CINEMA",
+          "image": "https://www2.0zz0.com/2025/01/01/08/679454234.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN ACTION",
+          "image": "https://www2.0zz0.com/2025/01/01/08/600289470.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN SERIEAS",
+          "image": "https://www2.0zz0.com/2025/01/01/15/255094354.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN DISCOVERY",
+          "image": "https://www2.0zz0.com/2025/01/01/15/873367152.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN COMEDY",
+          "image": "https://www2.0zz0.com/2025/01/01/15/804454635.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+            }
+          ]
+        },
+        {
+          "name": "OSN DISENY",
+          "image": "https://www2.0zz0.com/2025/01/01/15/613981245.png",
+          "links": [
+            {
+              "label": "المشغل الأول",
+              "link": "http://tv3in1.online:8080/live/hXP65aXygZyZ/EgwBMNAH4tpH/175.ts"
+            }
+          ]
+        }
+      ]
+    }
+
   ]
 }
