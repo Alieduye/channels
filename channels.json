@@ -1,7 +1,13 @@
 {
-  "version": "1.0.0",
-  "update_message":"من فضلك قم بتحميل اخر نسخة",
-  "update_link":"https://files.modyolo.com/Facebook%20Lite/LiteX_v438.0.0.13.102.apk",
+  "version": "1.0.1",
+  "update_message":"قم بتحميل الإصدار الجديد 🥳
+
+-تم إضافة قسم للمسلسلات التركية ✅
+-تحسين المظهر 🔥
+-تحسينات في أداء التطبيق 😍
+-مشغل داخلي يعمل بكفائة 🤩
+",
+  "update_link":"https://raw.githubusercontent.com/Alieduye/JoaanTv/refs/heads/main/app-release.apk",
   "share_link":"https://files.modyolo.com/",
   "share_message":"لمشاهدة المباريات والمسلسلات حمل تطبيق جوان ",
     "channels": [
