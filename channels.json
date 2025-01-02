@@ -366,33 +366,49 @@
     },
     {
       "name": {
-        "ar":"مسلسلات تركية",
-        "en":"Turkish series"
+        "ar":"SSC Sports",
+        "en":"SSC Sports"
       },
       "image": "https://i.ibb.co/n7hsqdJ/Picsart-24-12-31-11-18-38-535.png",
       "data": [
         {
-          "name": "OSN ANIMAL",
-          "image": "https://www2.0zz0.com/2025/01/01/08/426041465.png",
+          "name": "SSC Sports 1",
+          "image": "https://www2.0zz0.com/2025/01/02/23/112082952.png",
           "links": [
             {
-              "label": "جار إصلاح المشغل",
-              "link": "https://vod2.furrera.ps/vod2/2020Q4/animation/noku.no.hero.academia/noku.no.hero.academia.S01EP01.m4v/index.m3u8"
+              "label": "SD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/63.ts"
+            },
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/61.ts"
+            },
+            {
+              "label": "FHD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/53.ts"
             }
           ]
         },
         {
-          "name": "OSN MOVIES",
-          "image": "https://www2.0zz0.com/2025/01/01/15/373673295.png",
+          "name": "SSC Sports 2",
+          "image": "https://www2.0zz0.com/2025/01/02/23/838690414.png",
           "links": [
             {
-              "label": "المشغل الأول",
-              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+              "label": "SD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/66.ts"
+            },
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/64.ts"
+            },
+            {
+              "label": "FHD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/54.ts"
             }
           ]
         },
         {
-          "name": "OSN CINEMA",
+          "name": "SSC Sport 3",
           "image": "https://www2.0zz0.com/2025/01/01/08/679454234.png",
           "links": [
             {
@@ -402,7 +418,7 @@
           ]
         },
         {
-          "name": "OSN ACTION",
+          "name": "SSC Sports 4",
           "image": "https://www2.0zz0.com/2025/01/01/08/600289470.png",
           "links": [
             {
@@ -412,7 +428,7 @@
           ]
         },
         {
-          "name": "OSN SERIEAS",
+          "name": "SSC Sports 5",
           "image": "https://www2.0zz0.com/2025/01/01/15/255094354.png",
           "links": [
             {
@@ -422,7 +438,7 @@
           ]
         },
         {
-          "name": "OSN DISCOVERY",
+          "name": "SSC Extra 1",
           "image": "https://www2.0zz0.com/2025/01/01/15/873367152.png",
           "links": [
             {
@@ -432,7 +448,7 @@
           ]
         },
         {
-          "name": "OSN COMEDY",
+          "name": "SSC Extra 2",
           "image": "https://www2.0zz0.com/2025/01/01/15/804454635.png",
           "links": [
             {
@@ -442,7 +458,7 @@
           ]
         },
         {
-          "name": "OSN DISENY",
+          "name": "SSC Extra  3",
           "image": "https://www2.0zz0.com/2025/01/01/15/613981245.png",
           "links": [
             {
