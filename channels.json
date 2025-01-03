@@ -409,61 +409,109 @@
         },
         {
           "name": "SSC Sport 3",
-          "image": "https://www2.0zz0.com/2025/01/01/08/679454234.png",
+          "image": "https://www2.0zz0.com/2025/01/03/00/311701448.png",
           "links": [
             {
-              "label": "المشغل الأول",
-              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+              "label": "SD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/69.ts"
+            },
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/67.ts"
+            },
+            {
+              "label": "FHD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/55.ts"
             }
           ]
         },
         {
           "name": "SSC Sports 4",
-          "image": "https://www2.0zz0.com/2025/01/01/08/600289470.png",
+          "image": "https://www2.0zz0.com/2025/01/03/00/455044819.png",
           "links": [
             {
-              "label": "المشغل الأول",
-              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+              "label": "SD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/72.ts"
+            },
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/71.ts"
+            },
+            {
+              "label": "FHD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/56.ts"
             }
           ]
         },
         {
           "name": "SSC Sports 5",
-          "image": "https://www2.0zz0.com/2025/01/01/15/255094354.png",
+          "image": "https://www2.0zz0.com/2025/01/03/00/733572223.png",
           "links": [
             {
-              "label": "المشغل الأول",
-              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+              "label": "SD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/75.ts"
+            },
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/74.ts"
+            },
+            {
+              "label": "FHD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/57.ts"
             }
           ]
         },
         {
           "name": "SSC Extra 1",
-          "image": "https://www2.0zz0.com/2025/01/01/15/873367152.png",
+          "image": "https://www2.0zz0.com/2025/01/03/00/567904922.png",
           "links": [
             {
-              "label": "المشغل الأول",
-              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+              "label": "SD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/58.ts"
+            },
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/76.ts"
+            },
+            {
+              "label": "FHD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/58.ts"
             }
           ]
         },
         {
           "name": "SSC Extra 2",
-          "image": "https://www2.0zz0.com/2025/01/01/15/804454635.png",
+          "image": "https://www2.0zz0.com/2025/01/03/00/166481494.png",
           "links": [
             {
-              "label": "المشغل الأول",
-              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/378.ts"
+              "label": "SD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/79.ts"
+            },
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/78.ts"
+            },
+            {
+              "label": "FHD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/59.ts"
             }
           ]
         },
         {
           "name": "SSC Extra  3",
-          "image": "https://www2.0zz0.com/2025/01/01/15/613981245.png",
+          "image": "https://www2.0zz0.com/2025/01/03/00/138393315.png",
           "links": [
             {
-              "label": "المشغل الأول",
-              "link": "http://tv3in1.online:8080/live/hXP65aXygZyZ/EgwBMNAH4tpH/175.ts"
+              "label": "SD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/80.ts"
+            },
+            {
+              "label": "HD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/82.ts"
+            },
+            {
+              "label": "FHD",
+              "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/60.ts"
             }
           ]
         }
