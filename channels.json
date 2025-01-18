@@ -374,6 +374,7 @@
         {
           "name": "SSC Sports 1",
           "image": "https://www2.0zz0.com/2025/01/02/23/112082952.png",
+          "key": "d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f"
           "links": [
             {
               "label": "SD",
@@ -386,6 +387,10 @@
             {
               "label": "FHD",
               "link": "http://tv3in1.online:8080/live/uPauRjYqU8w6/D8n5vNxgCyKS/53.ts"
+            },
+            {
+              "label": "متعدد",
+              "link": "https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd"
             }
           ]
         },
