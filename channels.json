@@ -533,8 +533,8 @@
     },
     {
       "name": {
-        "ar":"SSC Sports 4k",
-        "en":"SSC Sports 4k"
+        "ar":"SSC موقف",
+        "en":"SSC موقف"
       },
       "image": "https://www2.0zz0.com/2025/01/03/16/642590191.png",
       "data": [
@@ -544,7 +544,7 @@
           "links": [
             {
               "label": "4K + متعدد",
-              "link": "https://joaantv.com/ssc/ssc1.html"
+              "link": "nn"
             }
           ]
         },
@@ -574,7 +574,7 @@
           "links": [
             {
               "label": "4k + متعدد",
-              "link": "https://joaantv.com/ssc/ssc4.html"
+              "link": "nn"
             }
           ]
         },
@@ -584,7 +584,7 @@
           "links": [
             {
               "label": "4k + متعدد",
-              "link": "https://joaantv.com/ssc/ssc5.html"
+              "link": "nn"
             }
           ]
         },
